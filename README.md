@@ -1,5 +1,5 @@
 # Invisible-Cloak-through-Computer-Vision
-![](Invisible_Cloak.jpg)
+![](cloak.JPG)
 
 The logic is very simple. We are extracting each frame of the video, with the help of segmentation.
 
